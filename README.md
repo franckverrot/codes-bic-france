@@ -2,4 +2,4 @@
 
 Code BIC des Banques Françaises
 
-Dernière mise à jour: 10 Janvier 2018
+Dernière mise à jour: 17 Septembre 2018
